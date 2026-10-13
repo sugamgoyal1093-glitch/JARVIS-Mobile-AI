@@ -26,7 +26,7 @@ import java.util.Locale
 class MainActivity : ComponentActivity() {
  
     // 1. SET YOUR API KEY HERE
-    private val apiKey = AQ.Ab8RN6LFi8xqviUsAtH9ZGLfkL5we3VcGQfvt7lVV1GwYZax4Q
+    private val apiKey = Ab8RN6LFi8xqviUsAtH9ZGLfkL5we3VcGQfvt7lVV1GwYZax4Q
     private lateinit var tts: TextToSpeech
     private lateinit var generativeModel: GenerativeModel
  
